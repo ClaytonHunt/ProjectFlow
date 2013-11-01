@@ -1,0 +1,48 @@
+Web site
+---------
+* Tracking Software
+- Video site
+- logins ?
+- later paid videos?
+
+Epics:
+* As a Business Analyist I need to gather requirements so that the developers will know what the system needs to do.
+- As a Designer I need to create a wireframe so that the Business can see how the system will behave
+- As a Developer I need to manage tasks so that I know what needs to be done for the system
+
+Stories:
+- As a Business Analyst I need to enter gathered requirements in the system so that I can keep track of them
+-- needs Title
+-- needs Assigned To
+-- needs State - Gathering, Approved, Ready for Design/Development, Developed
+-- needs Requirements
+-- Definition Of Done
+- As a Business Analyst I need the ability to search requirements so that I can find previously entered ones
+
+
+Engineering Tasks:
+- Create out project
+- get testing working
+- automated build
+- get continous builds going
+
+
+Questions:
+What are requirements - define the needs of the stakeholders
+- who are the stakeholders?
+-- I'm the stake holder
+--- my needs
+---- I need requirements clear and concise
+---- I need flexibility in the way my requirements are defined
+---- I need to be able to link the requirements to the items that fulfill the requirements
+
+- Formats - should be non specific, easily adaptable to current needs
+- length - I would prefer smaller but need to be able to support lengths up to 5000 characters
+- How do we know we got it right? - someplace where we can set the definition of done.
+
+
+Brainstorming:
+- Requirements Item type ?
+- Query requirements?
+- Requirements to link to other items.
+
